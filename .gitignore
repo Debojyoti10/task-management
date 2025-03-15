@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+*.log
+
+# Next.js build files
+frontend/.next/
+frontend/out/
+
+# NestJS build files
+backend/dist/
+
+# Environment variables
+frontend/.env.local
+backend/.env
+
+# IDE and system files
+.vscode/
+.DS_Store
